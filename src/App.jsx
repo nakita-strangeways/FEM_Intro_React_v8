@@ -1,3 +1,9 @@
+/**
+ * COMPLETE INTRO TO REACT V8
+ * Course by: Brian Holt through Front End Masters
+ * Completed 10/9/2023
+ */
+
 import { useState } from 'react';
 import { createRoot } from 'react-dom/client';
 import { BrowserRouter, Link, Routes, Route } from 'react-router-dom';
